@@ -1,3 +1,5 @@
+![open-vr-hello-world: Unity OpenVR Hello World from 2017](docs/images/social-preview.png)
+
 # open-vr-hello-world
 
 A "Hello World" app for OpenVR, made with Unity.
